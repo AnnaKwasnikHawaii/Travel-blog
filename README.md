@@ -14,6 +14,7 @@ Blog podróżniczy zawiera:
 11. Social media
     
 
-![blog](https://github.com/user-attachments/assets/9e5da4f3-8313-4f72-b3b1-246d74268627)
+![blog screen](https://github.com/user-attachments/assets/ecdf9480-0404-4275-88d4-e9b3773bf307)
+
 
 
