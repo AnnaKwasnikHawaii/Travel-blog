@@ -1,4 +1,4 @@
-# Blog-podróżniczy-o-wulkanach
+# Blog-podróżniczy
 
 Blog podróżniczy zawiera:
 1. Menu --> Home, Kategorie, Podróże, Wulkany, Wyspy i Kontakt
