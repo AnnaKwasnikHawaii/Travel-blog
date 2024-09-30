@@ -14,7 +14,10 @@ Blog podróżniczy zawiera:
 9. Tagi
 10. Newsletter
 11. Social media
-    
+
+
+Projekt został stworzony przy użyciu technologii:
+HTML5, CSS3, Vanilla JS, RWD
 
 ![blog screen](https://github.com/user-attachments/assets/ecdf9480-0404-4275-88d4-e9b3773bf307)
 
